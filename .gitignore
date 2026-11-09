@@ -1,0 +1,7 @@
+.venv/
+vits-piper-zh_CN-xiao_ya-medium*/
+*.mp3
+*.wav
+*.iml
+.idea/
+__pycache__/
