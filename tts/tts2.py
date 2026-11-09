@@ -1,6 +1,7 @@
 import sherpa_onnx
 import soundfile as sf
 #tet add by wsl 1109
+#test add by lhw1g
 config = sherpa_onnx.OfflineTtsConfig(
     model=sherpa_onnx.OfflineTtsModelConfig(
         vits=sherpa_onnx.OfflineTtsVitsModelConfig(
